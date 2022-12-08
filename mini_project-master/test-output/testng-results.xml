@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-01T17:21:17 IST" name="Suite" finished-at="2022-12-01T17:21:23 IST" duration-ms="5813">
+    <groups>
+    </groups>
+    <test started-at="2022-12-01T17:21:17 IST" name="Test" finished-at="2022-12-01T17:21:23 IST" duration-ms="5813">
+      <class name="com.selenium.miniproject.CarSelection">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:com.selenium.miniproject.CarSelection@43dac38f]" started-at="2022-12-01T17:21:09 IST" name="driverSetup" finished-at="2022-12-01T17:21:17 IST" duration-ms="7541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="carSelection()[pri:0, instance:com.selenium.miniproject.CarSelection@43dac38f]" started-at="2022-12-01T17:21:17 IST" name="carSelection" finished-at="2022-12-01T17:21:23 IST" duration-ms="5765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carSelection -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.miniproject.CarSelection@43dac38f]" started-at="2022-12-01T17:21:23 IST" name="closeBrowser" finished-at="2022-12-01T17:21:24 IST" duration-ms="1484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.selenium.miniproject.CarSelection -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
